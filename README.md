@@ -6,7 +6,7 @@
 
 1. [UE4-RPG游戏开发第1节，简单场景创建，动画蓝图，移动操控绑定](https://github.com/unreal-engine-channel/RPG-PVE/commit/8dd9bf24c6675fe4651b8d7a291b1abb62ef5a9a)
 2. [UE4-RPG游戏开发第2节，UI血条创建，绑定角色属性](https://github.com/unreal-engine-channel/RPG-PVE/commit/df274945e8fb5b03b823127571c959384f49cede)
-3. UE4-RPG游戏开发第3节，人物等级属性绑定，经验条动画效果
+3. [UE4-RPG游戏开发第3节，人物等级属性绑定，经验条动画效果](https://github.com/unreal-engine-channel/RPG-PVE/commit/80e93dd5e4b163ae3bbfe32bab313a527077e9a9)
 4. UE4-RPG游戏开发第4节，自动回复系统，迷你小地图制作
 5. UE4-RPG游戏开发第5节，跳跃动作制作，创建任务系统（开篇）
 6. UE4-RPG游戏开发第6节，创建NPC，骨骼重定向，任务互动发放
