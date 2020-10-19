@@ -1,3 +1,4 @@
+# common
 Binaries
 DerivedDataCache
 Intermediate
@@ -12,9 +13,16 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*_BuiltData.uasset
 
+# inner source
 StarterContent
+ThirdPerson
+ThirdPersonBP
+Mannequin
+
+# source
 ParagonShinbi
 InfinityBladeIceLands
 Source
-*_BuiltData.uasset
+NPC
