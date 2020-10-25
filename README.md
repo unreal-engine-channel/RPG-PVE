@@ -12,7 +12,7 @@
 6. [UE4-RPG游戏开发第6节，创建NPC，骨骼重定向，任务互动发放](https://github.com/unreal-engine-channel/RPG-PVE/commit/25938d624bf062c93d6be00ab3cb0f9360c60961)
 7. [UE4-游戏开发第7节，AI初讲，BehaviorTree--Patrol](https://github.com/unreal-engine-channel/RPG-PVE/commit/87521add4ff7b3a690088abd6603811f9669e37c)
 8. [UE4-RPG游戏开发第8节，任务坐标，Money互动](https://github.com/unreal-engine-channel/RPG-PVE/commit/e17fc1afb3f93443ebea0dd736a108c360cb4003)
-9. UE4-RPG游戏开发第9节，任务完成的互动，混合骨骼动画，普通攻击三连制作
+9. [UE4-RPG游戏开发第9节，任务完成的互动，混合骨骼动画，普通攻击三连制作](https://github.com/unreal-engine-channel/RPG-PVE/commit/b234565837dfc58d8686e708b1b5e52d35fd4518)
 10. UE4-RPG游戏开发第10节,创建Enemy，创建战斗系统（开篇）
 11. UE4-RPG游戏开发第11节，战斗系统（续篇），AI设置，蒙太奇动画
 12. UE4-RPG游戏开发第12节,制作简单的粒子特效，获得经验金币，重生Enemy
