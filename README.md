@@ -15,7 +15,7 @@
 9. [UE4-RPG游戏开发第9节，任务完成的互动，混合骨骼动画，普通攻击三连制作](https://github.com/unreal-engine-channel/RPG-PVE/commit/b234565837dfc58d8686e708b1b5e52d35fd4518)
 10. [UE4-RPG游戏开发第10节,创建Enemy，创建战斗系统（开篇）](https://github.com/unreal-engine-channel/RPG-PVE/commit/5d60740cb36c5f54904fd7e9b3e0365ca84348eb)
 11. [UE4-RPG游戏开发第11节，战斗系统（续篇），AI设置，蒙太奇动画](https://github.com/unreal-engine-channel/RPG-PVE/commit/a00b01ac879b86be1ebebc47a24720c51cf2ca49)
-12. UE4-RPG游戏开发第12节,制作简单的粒子特效，获得经验金币，重生Enemy
+12. [UE4-RPG游戏开发第12节,制作简单的粒子特效，获得经验金币，重生Enemy](https://github.com/unreal-engine-channel/RPG-PVE/commit/11567a275d14287e10639e3d31e6435255e9fd4c)
 13. UE4-RPG游戏开发第13节,大任务系统创建（进阶），UI设计应用细讲
 14. UE4-RPG游戏开发第14节,大任务系统创建(续篇),蓝图UI任务数据绑定
 15. UE4-RPG游戏开发第15节,大任务系统续，任务分支完成互动
