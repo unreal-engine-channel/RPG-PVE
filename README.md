@@ -18,7 +18,7 @@
 12. [UE4-RPG游戏开发第12节,制作简单的粒子特效，获得经验金币，重生Enemy](https://github.com/unreal-engine-channel/RPG-PVE/commit/11567a275d14287e10639e3d31e6435255e9fd4c)
 13. [UE4-RPG游戏开发第13节,大任务系统创建（进阶），UI设计应用细讲](https://github.com/unreal-engine-channel/RPG-PVE/commit/465124987164bcca45e7ffe103b51097ee68dbd2)
 14. [UE4-RPG游戏开发第14节,大任务系统创建(续篇),蓝图UI任务数据绑定](https://github.com/unreal-engine-channel/RPG-PVE/commit/decbfefd03cace8a30f35a4eaa536cd3d2227046)
-15. UE4-RPG游戏开发第15节,大任务系统续，任务分支完成互动
+15. [UE4-RPG游戏开发第15节,大任务系统续，任务分支完成互动](https://github.com/unreal-engine-channel/RPG-PVE/commit/c299803b666e750688e6ad2e591ebb85d92a2691)
 16. UE4-RPG游戏开发第16节,创建Npc对话系统（开篇），编辑剧本
 17. UE4-RPG游戏开发第17节,Npc对话系统续，创建背包
 18. UE4-RPG游戏开发第18节,脚部IK制作
