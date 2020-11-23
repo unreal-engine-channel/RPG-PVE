@@ -25,7 +25,5 @@
 19. [UE4-RPG游戏开发第19节,背包系统数据绑定，服务端客户端初讲，RPC](https://github.com/unreal-engine-channel/RPG-PVE/commit/88eea3a0732ea8cd492e18a3733151aaa2160e47)
 20. [UE4-RPG游戏开发第20节,ToolTip，拖拽功能，RPC](https://github.com/unreal-engine-channel/RPG-PVE/commit/6e89a7214da41bb923ec608eaefcf0874bd0727b)
 21. UE4-RPG游戏开发第21节,创建服务的NPC交易窗口，RPC
-22. UE4-RPG游戏开发第22节,联网测试交易物品，RPC（第一部分）
-23. UE4-RPG游戏开发第23节,联网测试交易物品，RPC（第二部分）
-24. UE4-RPG游戏开发第24节,联网测试交易物品，RPC（第三部分）
-25. UE4-RPG游戏开发第25节,联网测试交易物品，RPC（第四部分）
+22. UE4-RPG游戏开发第22节,联网测试交易物品，RPC
+
